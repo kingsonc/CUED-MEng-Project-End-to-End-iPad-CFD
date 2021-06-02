@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+# open3d 0.11.0 has broken dependencies
+open3d==0.10
+pre-commit
+scipy
+shapely
